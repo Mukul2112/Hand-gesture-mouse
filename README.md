@@ -7,33 +7,7 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
 
 
 
-    <li>
-      <code>Proton list files</code> / <code> Proton list </code><br>
-      Will list the files and respective file_numbers in your Current Directory (by default C:)
-    </li>
-    <li>  
-      <code> Proton open {file_number} </code><br>
-      Opens the file / directory corresponding to specified file_number.
-    </li>
-    <li>
-      <code>Proton go back </code> / <code> Proton back </code><br>
-      Changes the Current Directory to Parent Directory and lists the files.
-    </li>
-  </ul>
-</details>
-
-<details>
-<summary>Current Date and Time</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/d49c868acc41ac6c89489bfd80e5e5015a8cb571/demo_media/voice%20commands/proton%20date%20time.png" alt="proton date / time" width="250" height="auto">
-  <ul>
-    <li>
-      <code> Proton what is today's date </code> / <code> Proton date </code><br>
-      <code> Proton what is the time </code> / <code> Proton time </code><br>
-      Returns the current date and time.
-    </li>
-  </ul>
-</details>
-
+ 
 <details>
 <summary>Copy and Paste</summary>
  <img src="https://github.com/xenon-19/Gesture_Controller/blob/4041eedc2f75fa2923902000b606a05a677629e8/demo_media/voice%20commands/proton%20copy.png" alt="proton copy" width="500" height="auto">
