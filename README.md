@@ -6,52 +6,6 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
 
 
 
-
- 
-<details>
-<summary>Copy and Paste</summary>
- <img src="https://github.com/xenon-19/Gesture_Controller/blob/4041eedc2f75fa2923902000b606a05a677629e8/demo_media/voice%20commands/proton%20copy.png" alt="proton copy" width="500" height="auto">
- <img src="https://github.com/xenon-19/Gesture_Controller/blob/4041eedc2f75fa2923902000b606a05a677629e8/demo_media/voice%20commands/proton%20paste.png" alt="proton paste" width="500" height="auto">
-  <ul>
-    <li>
-      <code> Proton Copy </code><br>
-      Copies the selected text to clipboard.<br>
-    </li>
-    <li>
-      <code> Proton Paste </code><br>
-      Pastes the copied text.
-    </li>
-  </ul>
-</details>
-
-<details>
-<summary>Sleep / Wake up Proton</summary>
-  <img src="https://github.com/xenon-19/Gesture_Controller/blob/4041eedc2f75fa2923902000b606a05a677629e8/demo_media/voice%20commands/proton%20bye%20wake%20up.png" alt="proton sleep / wake up" width="250" height="auto">
-  <ul>
-    <li>
-      Sleep<br>
-      <code> Proton bye </code><br>
-      Pauses voice command execution till the assistant is woken up.
-    </li>
-    <li>
-      Wake up<br>
-      <code> Proton wake up </code><br>
-      Resumes voice command execution.
-    </li>
-  </ul>
-</details>
-
-<details>
-<summary>Exit</summary>
-   <img src="https://github.com/xenon-19/Gesture_Controller/blob/4041eedc2f75fa2923902000b606a05a677629e8/demo_media/voice%20commands/proton%20exit.png" alt="proton exit" width="250" height="auto">
-  <ul>
-    <li>
-      <code> Proton Exit </code> <br>
-      Terminates the voice assisstant thread. GUI window needs to be closed manually.
-    </li>
-  </ul>
-</details>
-
 # Getting Started
 
   ### Pre-requisites
